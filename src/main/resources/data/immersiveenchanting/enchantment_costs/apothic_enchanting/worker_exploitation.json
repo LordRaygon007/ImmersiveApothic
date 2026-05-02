@@ -1,0 +1,61 @@
+{
+  "enabled": true,
+  "levels": {
+    "1": [
+      {
+        "item": "minecraft:amethyst_shard",
+        "amount": 3,
+        "xp_levels": 5
+      }
+    ],
+    "2": [
+      {
+        "item": "minecraft:amethyst_shard",
+        "amount": 6,
+        "xp_levels": 10
+      }
+    ],
+    "3": [
+      {
+        "item": "minecraft:amethyst_shard",
+        "amount": 9,
+        "xp_levels": 15
+      }
+    ],
+    "4": [
+      {
+        "item": "minecraft:amethyst_shard",
+        "amount": 12,
+        "xp_levels": 20
+      }
+    ],
+    "5": [
+      {
+        "item": "minecraft:amethyst_shard",
+        "amount": 15,
+        "xp_levels": 25
+      }
+    ],
+    "6": [
+      {
+        "item": "minecraft:amethyst_shard",
+        "amount": 18,
+        "xp_levels": 30
+      }
+    ],
+    "7": [
+      {
+        "item": "minecraft:amethyst_shard",
+        "amount": 21,
+        "xp_levels": 35
+      }
+    ],
+    "8": [
+      {
+        "item": "minecraft:amethyst_shard",
+        "amount": 24,
+        "xp_levels": 40
+      }
+    ]
+  }
+}

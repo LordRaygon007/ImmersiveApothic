@@ -1,0 +1,694 @@
+{
+  "enchantments": {
+    "allurement:alleviating": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "allurement:ascension_curse": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "allurement:fleeting_curse": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "allurement:launch": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "allurement:obedience": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "allurement:reeling": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "allurement:reforming": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "allurement:shockwave": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "allurement:spread_of_ailments": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "allurement:vengeance": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:berserkers_fury": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:boon_of_the_earth": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:chainsaw": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:chromatic": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:crescendo_of_bolts": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:endless_quiver": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:growth_serum": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:icy_thorns": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:infusion": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:knowledge_of_the_ages": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:life_mending": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:miners_fervor": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:natures_blessing": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:rebounding": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:reflective_defenses": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:scavenger": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:shield_bash": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:stable_footing": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:tempting": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_enchanting:worker_exploitation": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "apothic_spawners:capturing": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "benssharks:serrated": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "butchery:butcherstouch": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "combat_roll:acrobat": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "combat_roll:longfooted": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "combat_roll:multi_roll": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "create:capacity": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "create:potato_recovery": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "darkerdepths:quick_dash": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "darkerdepths:swift_strike": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "deeperdarker:catalysis": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "deeperdarker:reverberation": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "deeperdarker:sculk_smite": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "deeperdarker:volume": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:breaking_curse": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:breeze_burst": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:clumsiness_curse": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:crabs_touch": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:displacement_curse": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:double_edge_curse": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:gluttony": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:graviole": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:ice_aspect": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:kinetic_protection": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:luminosity": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:outreach": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:precision": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:pyrolysis": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:retrieval": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:scorch_walker": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:skyguard": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:stride": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:swift_strike": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:toxic": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:vitality": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "enchantsplus:websnare": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "farmersdelight:backstabbing": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "galosphere:enfeeble": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "galosphere:rupture": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "galosphere:sifting": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "galosphere:sustain": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "immersiveenchanting:replicate": {
+      "sound": "minecraft:entity.illusioner.mirror_move2",
+      "volume": 0.3,
+      "pitch": 0.8
+    },
+    "immersiveenchanting:transmute": {
+      "sound": "minecraft:entity.illusioner.mirror_move2",
+      "volume": 0.3,
+      "pitch": 0.8
+    },
+    "legendarysurvivaloverhaul:purity": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "legendarysurvivaloverhaul:refreshing": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "legendarysurvivaloverhaul:reservoir": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "luminous_nether:soul_cleave": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:aqua_affinity": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:bane_of_arthropods": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:binding_curse": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:blast_protection": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:breach": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:channeling": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:density": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:depth_strider": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:efficiency": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:feather_falling": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:fire_aspect": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:fire_protection": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:flame": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:fortune": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:frost_walker": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:impaling": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:infinity": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:knockback": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:looting": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:loyalty": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:luck_of_the_sea": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:lure": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:multishot": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:piercing": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:power": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:projectile_protection": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:protection": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:punch": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:quick_charge": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:respiration": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:riptide": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:sharpness": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:silk_touch": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:smite": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:soul_fire_aspect": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:soul_flame": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:soul_speed": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:sweeping_edge": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:swift_sneak": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:thorns": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:unbreaking": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:vanishing_curse": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "minecraft:wind_burst": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "mynethersdelight:poaching": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "netherdepthsupgrade:hell_strider": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "nova_structures:antidote": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "nova_structures:conductivity_curse": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "nova_structures:ghasted": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "nova_structures:gravity": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "nova_structures:illagers_bane": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "nova_structures:multishot": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "nova_structures:outreach": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "nova_structures:photosynthesis": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "nova_structures:piercing": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "nova_structures:power": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "nova_structures:traveler": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "nova_structures:wax_wings": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "nova_structures:wither_coated": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "nyfsquiver:cycling": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "supplementaries:stasis": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    },
+    "veinminer-enchantment:veinminer": {
+      "sound": "minecraft:entity.illusioner.mirror_move1",
+      "volume": 0.1,
+      "pitch": 1.4
+    }
+  }
+}
