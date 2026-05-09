@@ -17,11 +17,11 @@ This mod has two main features:
 
 Vanilla & Modded Enchantments follow this formula I've done a few mods but if there's any missing it's easy to setup a datapack just follow the steps on Immersive Enchanting's https://immersive-enchanting.fandom.com/wiki/For_Modpack_Developers
 
-```json
- COST_PER_LEVEL = {
-  "item": 
-  "minecraft:amethyst_shard", 
-  "amount": 3, <<<<<<<<<<<<<<<< Increased by 3 per level
-  "xp_levels": 5 <<<<<<<<<<<<<< Increased by 5 per level
-  }
+```
+COST_PER_LEVEL = {
+ "item": 
+ "minecraft:amethyst_shard", 
+ "amount": 3, <<<<<<<<<<<<<<<< Increased by 3 per level
+ "xp_levels": 5 <<<<<<<<<<<<<< Increased by 5 per level
+ }
 ```
