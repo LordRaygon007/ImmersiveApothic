@@ -1,0 +1,85 @@
+{
+  "enabled": true,
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:lapis_lazuli",
+          "count": 3
+        }
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "minecraft:lapis_lazuli",
+          "count": 6
+        }
+      }
+    ],
+    "3": [
+      {
+        "item_cost": {
+          "item": "minecraft:lapis_lazuli",
+          "count": 9
+        }
+      }
+    ],
+    "4": [
+      {
+        "item_cost": {
+          "item": "minecraft:lapis_lazuli",
+          "count": 12
+        }
+      }
+    ],
+    "5": [
+      {
+        "item_cost": {
+          "item": "minecraft:lapis_lazuli",
+          "count": 15
+        }
+      }
+    ],
+    "6": [
+      {
+        "item_cost": {
+          "item": "minecraft:lapis_lazuli",
+          "count": 18
+        }
+      }
+    ],
+    "7": [
+      {
+        "item_cost": {
+          "item": "minecraft:lapis_lazuli",
+          "count": 21
+        }
+      }
+    ],
+    "8": [
+      {
+        "item_cost": {
+          "item": "minecraft:lapis_lazuli",
+          "count": 24
+        }
+      }
+    ],
+    "9": [
+      {
+        "item_cost": {
+          "item": "minecraft:lapis_lazuli",
+          "count": 27
+        }
+      }
+    ],
+    "10": [
+      {
+        "item_cost": {
+          "item": "minecraft:lapis_lazuli",
+          "count": 30
+        }
+      }
+    ]
+  }
+}
