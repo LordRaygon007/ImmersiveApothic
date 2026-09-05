@@ -5,32 +5,36 @@
       {
         "item_cost": {
           "item": "minecraft:air",
-          "count": 0
-        }
+          "count": 1
+        },
+        "xp_levels": 0
       }
     ],
     "2": [
       {
         "item_cost": {
           "item": "minecraft:air",
-          "count": 0
-        }
+          "count": 1
+        },
+        "xp_levels": 0
       }
     ],
     "3": [
       {
         "item_cost": {
           "item": "minecraft:air",
-          "count": 0
-        }
+          "count": 1
+        },
+        "xp_levels": 0
       }
     ],
     "4": [
       {
         "item_cost": {
           "item": "minecraft:air",
-          "count": 0
-        }
+          "count": 1
+        },
+        "xp_levels": 0
       }
     ]
   }
