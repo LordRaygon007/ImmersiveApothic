@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:feather",
+          "count": 8
+        },
+        "xp_levels": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "enabled": true,
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:string",
+          "count": 8
+        },
+        "xp_levels": 0
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "minecraft:string",
+          "count": 16
+        },
+        "xp_levels": 0
+      }
+    ],
+    "3": [
+      {
+        "item_cost": {
+          "item": "minecraft:leather",
+          "count": 8
+        },
+        "xp_levels": 0
+      }
+    ],
+    "4": [
+      {
+        "item_cost": {
+          "item": "minecraft:blaze_rod",
+          "count": 2
+        },
+        "xp_levels": 0
+      }
+    ],
+    "5": [
+      {
+        "item_cost": {
+          "item": "minecraft:blaze_rod",
+          "count": 4
+        },
+        "xp_levels": 0
+      }
+    ]
+  }
+}

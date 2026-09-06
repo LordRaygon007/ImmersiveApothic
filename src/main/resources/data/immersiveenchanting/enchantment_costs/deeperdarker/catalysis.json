@@ -1,0 +1,32 @@
+{
+  "enabled": true,
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:sculk",
+          "count": 8
+        },
+        "xp_levels": 0
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "minecraft:sculk",
+          "count": 16
+        },
+        "xp_levels": 0
+      }
+    ],
+    "3": [
+      {
+        "item_cost": {
+          "item": "minecraft:echo_shard",
+          "count": 1
+        },
+        "xp_levels": 0
+      }
+    ]
+  }
+}

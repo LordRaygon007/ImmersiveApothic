@@ -4,7 +4,7 @@
     "1": [
       {
         "item_cost": {
-          "item": "minecraft:air",
+          "item": "minecraft:golden_apple",
           "count": 1
         },
         "xp_levels": 0
@@ -13,8 +13,8 @@
     "2": [
       {
         "item_cost": {
-          "item": "minecraft:air",
-          "count": 1
+          "item": "minecraft:golden_apple",
+          "count": 2
         },
         "xp_levels": 0
       }
@@ -22,7 +22,7 @@
     "3": [
       {
         "item_cost": {
-          "item": "minecraft:air",
+          "item": "minecraft:totem_of_undying",
           "count": 1
         },
         "xp_levels": 0

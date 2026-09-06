@@ -1,0 +1,32 @@
+{
+  "enabled": true,
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "create:brass_ingot",
+          "count": 2
+        },
+        "xp_levels": 0
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "create:brass_ingot",
+          "count": 4
+        },
+        "xp_levels": 0
+      }
+    ],
+    "3": [
+      {
+        "item_cost": {
+          "item": "create:brass_ingot",
+          "count": 8
+        },
+        "xp_levels": 0
+      }
+    ]
+  }
+}

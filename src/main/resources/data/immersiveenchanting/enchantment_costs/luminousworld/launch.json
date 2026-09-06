@@ -1,0 +1,41 @@
+{
+  "enabled": true,
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:rabbit_foot",
+          "count": 1
+        },
+        "xp_levels": 0
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "minecraft:rabbit_foot",
+          "count": 2
+        },
+        "xp_levels": 0
+      }
+    ],
+    "3": [
+      {
+        "item_cost": {
+          "item": "minecraft:phantom_membrane",
+          "count": 2
+        },
+        "xp_levels": 0
+      }
+    ],
+    "4": [
+      {
+        "item_cost": {
+          "item": "minecraft:firework_rocket",
+          "count": 4
+        },
+        "xp_levels": 0
+      }
+    ]
+  }
+}

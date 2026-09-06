@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:fire_charge",
+          "count": 4
+        },
+        "xp_levels": 0
+      }
+    ]
+  }
+}

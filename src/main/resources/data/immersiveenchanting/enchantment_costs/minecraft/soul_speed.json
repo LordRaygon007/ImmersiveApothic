@@ -4,8 +4,8 @@
     "1": [
       {
         "item_cost": {
-          "item": "minecraft:air",
-          "count": 1
+          "item": "minecraft:soul_sand",
+          "count": 4
         },
         "xp_levels": 0
       }
@@ -13,8 +13,8 @@
     "2": [
       {
         "item_cost": {
-          "item": "minecraft:air",
-          "count": 1
+          "item": "minecraft:soul_soil",
+          "count": 4
         },
         "xp_levels": 0
       }
@@ -22,7 +22,7 @@
     "3": [
       {
         "item_cost": {
-          "item": "minecraft:air",
+          "item": "minecraft:netherite_scrap",
           "count": 1
         },
         "xp_levels": 0

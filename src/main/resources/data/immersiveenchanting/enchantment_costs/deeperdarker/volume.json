@@ -1,0 +1,41 @@
+{
+  "enabled": true,
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:white_wool",
+          "count": 8
+        },
+        "xp_levels": 0
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "minecraft:white_wool",
+          "count": 16
+        },
+        "xp_levels": 0
+      }
+    ],
+    "3": [
+      {
+        "item_cost": {
+          "item": "minecraft:note_block",
+          "count": 1
+        },
+        "xp_levels": 0
+      }
+    ],
+    "4": [
+      {
+        "item_cost": {
+          "item": "minecraft:disc_fragment_5",
+          "count": 2
+        },
+        "xp_levels": 0
+      }
+    ]
+  }
+}

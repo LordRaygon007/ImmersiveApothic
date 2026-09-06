@@ -4,8 +4,8 @@
     "1": [
       {
         "item_cost": {
-          "item": "minecraft:air",
-          "count": 1
+          "item": "minecraft:fire_charge",
+          "count": 2
         },
         "xp_levels": 0
       }

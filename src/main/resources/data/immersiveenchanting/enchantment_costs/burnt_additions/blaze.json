@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:blaze_powder",
+          "count": 6
+        },
+        "xp_levels": 0
+      }
+    ]
+  }
+}

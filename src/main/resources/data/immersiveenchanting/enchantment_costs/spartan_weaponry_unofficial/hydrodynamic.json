@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:nautilus_shell",
+          "count": 2
+        },
+        "xp_levels": 0
+      }
+    ]
+  }
+}
