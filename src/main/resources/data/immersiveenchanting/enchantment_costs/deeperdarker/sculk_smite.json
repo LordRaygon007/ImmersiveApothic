@@ -4,7 +4,7 @@
     "1": [
       {
         "item_cost": {
-          "item": "minecraft:gold_ingot",
+          "item": "apotheosis:mysterious_scrap_metal",
           "count": 2
         },
         "xp_levels": 0
@@ -13,7 +13,7 @@
     "2": [
       {
         "item_cost": {
-          "item": "minecraft:gold_ingot",
+          "item": "apotheosis:timeworn_fabric",
           "count": 4
         },
         "xp_levels": 0
@@ -22,7 +22,7 @@
     "3": [
       {
         "item_cost": {
-          "item": "minecraft:sculk",
+          "item": "apotheosis:luminous_crystal_shard",
           "count": 8
         },
         "xp_levels": 0
@@ -31,7 +31,7 @@
     "4": [
       {
         "item_cost": {
-          "item": "minecraft:echo_shard",
+          "item": "apotheosis:arcane_sands",
           "count": 1
         },
         "xp_levels": 0
@@ -40,7 +40,7 @@
     "5": [
       {
         "item_cost": {
-          "item": "minecraft:echo_shard",
+          "item": "apotheosis:godforged_pearl",
           "count": 2
         },
         "xp_levels": 0

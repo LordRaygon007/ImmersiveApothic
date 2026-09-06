@@ -4,7 +4,7 @@
     "1": [
       {
         "item_cost": {
-          "item": "minecraft:fishing_rod",
+          "item": "apotheosis:mysterious_scrap_metal",
           "count": 1
         },
         "xp_levels": 0
@@ -13,7 +13,7 @@
     "2": [
       {
         "item_cost": {
-          "item": "minecraft:fishing_rod",
+          "item": "apotheosis:timeworn_fabric",
           "count": 2
         },
         "xp_levels": 0

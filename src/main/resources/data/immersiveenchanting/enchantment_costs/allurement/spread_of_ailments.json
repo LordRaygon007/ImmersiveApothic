@@ -4,7 +4,7 @@
     "1": [
       {
         "item_cost": {
-          "item": "minecraft:dragon_breath",
+          "item": "apotheosis:mysterious_scrap_metal",
           "count": 1
         },
         "xp_levels": 0
@@ -13,7 +13,7 @@
     "2": [
       {
         "item_cost": {
-          "item": "minecraft:dragon_breath",
+          "item": "apotheosis:timeworn_fabric",
           "count": 2
         },
         "xp_levels": 0
@@ -22,7 +22,7 @@
     "3": [
       {
         "item_cost": {
-          "item": "minecraft:dragon_breath",
+          "item": "apotheosis:luminous_crystal_shard",
           "count": 3
         },
         "xp_levels": 0

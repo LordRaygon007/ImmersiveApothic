@@ -4,7 +4,7 @@
     "1": [
       {
         "item_cost": {
-          "item": "minecraft:arrow",
+          "item": "apotheosis:mysterious_scrap_metal",
           "count": 64
         },
         "xp_levels": 0

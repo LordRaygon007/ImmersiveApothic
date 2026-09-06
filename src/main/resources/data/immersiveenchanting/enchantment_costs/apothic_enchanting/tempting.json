@@ -4,7 +4,7 @@
     "1": [
       {
         "item_cost": {
-          "item": "minecraft:wheat",
+          "item": "apotheosis:mysterious_scrap_metal",
           "count": 16
         },
         "xp_levels": 0

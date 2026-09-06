@@ -4,7 +4,7 @@
     "1": [
       {
         "item_cost": {
-          "item": "minecraft:iron_ingot",
+          "item": "apotheosis:mysterious_scrap_metal",
           "count": 4
         },
         "xp_levels": 0
@@ -13,7 +13,7 @@
     "2": [
       {
         "item_cost": {
-          "item": "minecraft:gold_ingot",
+          "item": "apotheosis:timeworn_fabric",
           "count": 2
         },
         "xp_levels": 0
@@ -22,7 +22,7 @@
     "3": [
       {
         "item_cost": {
-          "item": "minecraft:diamond",
+          "item": "apotheosis:luminous_crystal_shard",
           "count": 1
         },
         "xp_levels": 0

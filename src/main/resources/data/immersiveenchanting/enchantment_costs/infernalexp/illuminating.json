@@ -4,7 +4,7 @@
     "1": [
       {
         "item_cost": {
-          "item": "minecraft:glowstone_dust",
+          "item": "apotheosis:mysterious_scrap_metal",
           "count": 4
         },
         "xp_levels": 0
@@ -13,7 +13,7 @@
     "2": [
       {
         "item_cost": {
-          "item": "minecraft:glowstone_dust",
+          "item": "apotheosis:timeworn_fabric",
           "count": 8
         },
         "xp_levels": 0

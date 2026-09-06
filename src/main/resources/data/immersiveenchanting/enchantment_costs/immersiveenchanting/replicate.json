@@ -4,7 +4,7 @@
     "1": [
       {
         "item_cost": {
-          "item": "minecraft:air",
+          "tag": "minecraft:trim_templates",
           "count": 1
         },
         "xp_levels": 0
