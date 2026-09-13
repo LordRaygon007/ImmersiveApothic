@@ -31,7 +31,10 @@ displayName="${mod_name}" #mandatory
 
 logoFile="logo.png" #optional
 
-credits="Alfino for the amazing Immersive Enchanting."
+credits='''\n
+\nAlfino for the amazing Immersive Enchanting.
+\nShadows_of_Fire for the expansive Apotheosis mods.
+'''
 
 authors="LordRaygon007"
 
@@ -61,7 +64,7 @@ config="mixins.immersive_apothic.json"
 [[dependencies."${mod_id}"]]
 modId="immersiveenchanting"
 type="required"
-versionRange="[${immersive_enchanting_version}]"
+versionRange="${immersive_enchanting_version_range}"
 ordering="NONE"
 side="BOTH"
 

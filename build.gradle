@@ -180,7 +180,7 @@ var generateModMetadata = tasks.register("generateModMetadata", ProcessResources
             mod_name               : mod_name,
             mod_license            : mod_license,
             mod_version            : mod_version,
-            immersive_enchanting_version: immersive_enchanting_version,
+            immersive_enchanting_version_range: immersive_enchanting_version_range,
             placeboVersion         :placeboVersion,
             apothAttribsVersion    :apothAttribsVersion,
             apothSpawnersVersion   :apothSpawnersVersion,
@@ -188,7 +188,7 @@ var generateModMetadata = tasks.register("generateModMetadata", ProcessResources
             apothVersion           :apothVersion,
             curios_version         :curios_version,
             patchouli_version      :patchouli_version,
-            alfinolib_version      :alfinolib_version,
+            alfinolib_version_range      :alfinolib_version_range,
     ]
     inputs.properties replaceProperties
     expand replaceProperties
