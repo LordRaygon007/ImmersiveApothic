@@ -45,6 +45,51 @@
         },
         "xp_levels": 0
       }
+    ],
+    "6": [
+      {
+        "item_cost": {
+          "item": "minecraft:lapis_lazuli",
+          "count": 6
+        },
+        "xp_levels": 0
+      }
+    ],
+    "7": [
+      {
+        "item_cost": {
+          "item": "minecraft:lapis_lazuli",
+          "count": 7
+        },
+        "xp_levels": 0
+      }
+    ],
+    "8": [
+      {
+        "item_cost": {
+          "item": "minecraft:lapis_lazuli",
+          "count": 8
+        },
+        "xp_levels": 0
+      }
+    ],
+    "9": [
+      {
+        "item_cost": {
+          "item": "minecraft:lapis_lazuli",
+          "count": 9
+        },
+        "xp_levels": 0
+      }
+    ],
+    "10": [
+      {
+        "item_cost": {
+          "item": "minecraft:lapis_lazuli",
+          "count": 10
+        },
+        "xp_levels": 0
+      }
     ]
   }
 }

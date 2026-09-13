@@ -3,7 +3,8 @@
   "package": "com.lordraygon.immersive_apothic.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "EnchantingTableOverrideMixin"
+    "EnchantingTableOverrideMixin",
+    "EnchantmentAvailabilityMixin"
   ],
   "injectors": {
     "defaultRequire": 1
