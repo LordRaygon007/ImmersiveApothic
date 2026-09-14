@@ -1,0 +1,32 @@
+{
+  "enabled": true,
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "apotheosis:mysterious_scrap_metal",
+          "count": 8
+        },
+        "xp_levels": 0
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "apotheosis:timeworn_fabric",
+          "count": 16
+        },
+        "xp_levels": 0
+      }
+    ],
+    "3": [
+      {
+        "item_cost": {
+          "item": "apotheosis:luminous_crystal_shard",
+          "count": 1
+        },
+        "xp_levels": 0
+      }
+    ]
+  }
+}
