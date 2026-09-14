@@ -65,7 +65,7 @@ config="mixins.immersive_apothic.json"
 modId="immersiveenchanting"
 type="required"
 versionRange="${immersive_enchanting_version_range}"
-ordering="NONE"
+ordering="AFTER"
 side="BOTH"
 
 [[dependencies."${mod_id}"]]
