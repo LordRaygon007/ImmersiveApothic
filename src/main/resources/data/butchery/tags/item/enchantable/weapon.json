@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "butchery:bone_cleaver", "required": false },
+    { "id": "butchery:copper_cleaver", "required": false },
+    { "id": "butchery:iron_cleaver", "required": false },
+    { "id": "butchery:gold_cleaver", "required": false },
+    { "id": "butchery:diamond_cleaver", "required": false },
+    { "id": "butchery:netherite_cleaver", "required": false }
+  ]
+}

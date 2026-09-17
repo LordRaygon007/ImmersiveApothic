@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "spartan_weaponry_unofficial:heavy_crossbow_wooden_strengthened", "required": false },
+    { "id": "spartan_weaponry_unofficial:heavy_crossbow_leather_strengthened", "required": false },
+    { "id": "spartan_weaponry_unofficial:heavy_crossbow_iron_strengthened", "required": false },
+    { "id": "spartan_weaponry_unofficial:heavy_crossbow_golden_strengthened", "required": false },
+    { "id": "spartan_weaponry_unofficial:heavy_crossbow_diamond_strengthened", "required": false },
+    { "id": "spartan_weaponry_unofficial:heavy_crossbow_netherite_strengthened", "required": false },
+    { "id": "spartan_weaponry_unofficial:heavy_crossbow_copper_strengthened", "required": false },
+    { "id": "spartan_weaponry_unofficial:heavy_crossbow_tin_strengthened", "required": false },
+    { "id": "spartan_weaponry_unofficial:heavy_crossbow_silver_strengthened", "required": false },
+    { "id": "spartan_weaponry_unofficial:heavy_crossbow_lead_strengthened", "required": false },
+    { "id": "spartan_weaponry_unofficial:heavy_crossbow_nickel_strengthened", "required": false },
+    { "id": "spartan_weaponry_unofficial:heavy_crossbow_aluminum_strengthened", "required": false },
+    { "id": "spartan_weaponry_unofficial:heavy_crossbow_bronze_strengthened", "required": false },
+    { "id": "spartan_weaponry_unofficial:heavy_crossbow_invar_strengthened", "required": false },
+    { "id": "spartan_weaponry_unofficial:heavy_crossbow_constantan_strengthened", "required": false },
+    { "id": "spartan_weaponry_unofficial:heavy_crossbow_electrum_strengthened", "required": false },
+    { "id": "spartan_weaponry_unofficial:heavy_crossbow_platinum_strengthened", "required": false },
+    { "id": "spartan_weaponry_unofficial:heavy_crossbow_steel_strengthened", "required": false }
+  ]
+}

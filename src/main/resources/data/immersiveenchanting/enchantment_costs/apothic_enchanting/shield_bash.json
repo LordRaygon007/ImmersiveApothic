@@ -5,7 +5,7 @@
       {
         "item_cost": {
           "item": "apotheosis:mysterious_scrap_metal",
-          "count": 2
+          "count": 4
         },
         "xp_levels": 0
       }
@@ -13,8 +13,8 @@
     "2": [
       {
         "item_cost": {
-          "item": "apotheosis:timeworn_fabric",
-          "count": 4
+          "item": "apotheosis:mysterious_scrap_metal",
+          "count": 8
         },
         "xp_levels": 0
       }
@@ -22,7 +22,7 @@
     "3": [
       {
         "item_cost": {
-          "item": "apotheosis:luminous_crystal_shard",
+          "item": "apotheosis:timeworn_fabric",
           "count": 1
         },
         "xp_levels": 0
@@ -31,7 +31,34 @@
     "4": [
       {
         "item_cost": {
-          "item": "apotheosis:arcane_sands",
+          "item": "apotheosis:timeworn_fabric",
+          "count": 2
+        },
+        "xp_levels": 0
+      }
+    ],
+    "5": [
+      {
+        "item_cost": {
+          "item": "apotheosis:timeworn_fabric",
+          "count": 4
+        },
+        "xp_levels": 0
+      }
+    ],
+    "6": [
+      {
+        "item_cost": {
+          "item": "apotheosis:timeworn_fabric",
+          "count": 8
+        },
+        "xp_levels": 0
+      }
+    ],
+    "7": [
+      {
+        "item_cost": {
+          "item": "apotheosis:luminous_crystal_shard",
           "count": 1
         },
         "xp_levels": 0

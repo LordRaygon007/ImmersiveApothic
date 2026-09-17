@@ -4,8 +4,8 @@
     "1": [
       {
         "item_cost": {
-          "item": "minecraft:nether_star",
-          "count": 1
+          "item": "apotheosis:godforged_pearl",
+          "count": 3
         },
         "xp_levels": 0
       }
