@@ -22,5 +22,7 @@
   "netherdepthsupgrade": "netherdepthsupgrade:soulsucker",
   "spartan_weaponry_unofficial": "spartan_weaponry_unofficial:bronze_flanged_mace",
   "supplementaries": "supplementaries:globe",
-  "enderscape": "enderscape:nebulite"
+  "enderscape": "enderscape:nebulite",
+  "kingsandmonsters": "kingsandmonsters:ogre_kings_crown",
+  "critical_strike": "minecraft:diamond_axe"
 }
